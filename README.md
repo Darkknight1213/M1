@@ -1,7 +1,7 @@
 
-## NAME: DANISH SAMUEL
+## NAME: Mohamed Riyaz Ahamed
 
-## REG NO: 212224040057
+## REG NO: 212224240092
 
 # EX-01-Datatypes-Operators
 ## AIM:
